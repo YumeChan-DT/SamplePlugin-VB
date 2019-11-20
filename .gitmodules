@@ -1,0 +1,3 @@
+[submodule "YumeChan PluginBase"]
+	path = YumeChan-PluginBase
+	url = https://github.com/YumeChan-DT/YumeChan-PluginBase

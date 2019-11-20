@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>Nodsoft.YumeChan.PluginSample_VB</RootNamespace>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Version>0.1.0</Version>
+    <Authors>DJ Daemonix</Authors>
+    <Company>YumeChan-DT</Company>
+    <Product>YumeChan : PluginSampleCS</Product>
+    <Copyright>MIT License</Copyright>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <RepositoryUrl>https://github.com/YumeChan-DT/SamplePlugin-VB</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <NeutralLanguage>en</NeutralLanguage>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

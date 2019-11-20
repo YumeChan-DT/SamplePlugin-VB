@@ -1,5 +1,4 @@
-﻿Imports Discord
-Imports Discord.Commands
+﻿Imports Discord.Commands
 
 
 ' Classes can here act as a bundle of Commands. The only limitation is one Class per Group Name.
